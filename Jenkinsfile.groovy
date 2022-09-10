@@ -4,10 +4,6 @@ pipeline {
         stage('Stage ') {
             steps {
                 echo "Hello World"
-                
-       
-                 
-            }
         }
     }
 }
