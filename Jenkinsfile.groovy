@@ -1,6 +1,6 @@
 pipeline {
     agent any
-    stages 1
+    stages 
         stage('Stage ') {
             steps {
                sh ' echo "Hello World - Branche MASTER"'
